@@ -1,1 +1,2 @@
-The packages to be installed are: joblib, scikit-learn
+joblib
+scikit-learn
